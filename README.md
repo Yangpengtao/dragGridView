@@ -1,2 +1,2 @@
 # dragGridView
-可拖拽删除的gridview（防安卓系统）
+可拖拽删除的gridview（仿安卓系统）
